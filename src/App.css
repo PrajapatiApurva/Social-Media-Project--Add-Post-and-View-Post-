@@ -1,0 +1,22 @@
+.post-card{
+  width: 30rem;
+  margin: 20px 50px;
+}
+
+.post-tags{
+  text-align: center;
+  margin: 0px 3px;
+}
+
+.reaction{
+  margin: 15px 0 0 0;
+}
+
+.createPostForm{
+  width: 80%;
+  padding: 20px;
+  margin-left:10% ;
+  margin-top: 50px;
+  border-radius: 8px;
+  border: 2px solid black;
+}
